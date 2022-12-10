@@ -1,0 +1,122 @@
+{
+      "Battery": [],
+      "Book": [],
+      "Bottle": [
+            "BeerBottle",
+            "BeerBottle",
+            "WineBottle",
+            "WineBottle"
+      ],
+      "Bowl": [],
+      "Calculator": [],
+      "Camera": [],
+      "Candle": [],
+      "CanOpener": [],
+      "Cap": [],
+      "Cassette": [],
+      "CellPhone": [
+            "Ipod"
+      ],
+      "CerealBox": [],
+      "Coin": [],
+      "Computer": [
+            "Desktop",
+            "Desktop",
+            "Laptop",
+            "Laptop"
+      ],
+      "ComputerMouse": [],
+      "DrinkingUtensil": [
+            "Cup",
+            "Cup",
+            "Jug",
+            "Mug",
+            "Mug",
+            "Teacup",
+            "WineGlass",
+            "WineGlass"
+      ],
+      "Eraser": [],
+      "FoodItem": [
+            "Bowl",
+            "Bowl",
+            "BreadSlice",
+            "BreadSlice",
+            "Cake",
+            "Cake",
+            "Carrot",
+            "CerealBox",
+            "CerealBox",
+            "CupCake",
+            "Donut",
+            "Donut",
+            "DonutBox",
+            "DonutBox",
+            "Egg",
+            "FoodPlate",
+            "FoodPlate",
+            "FoodPlate",
+            "FoodPlate",
+            "Fries",
+            "Sandwich",
+            "Sandwich"
+      ],
+      "Fork": [],
+      "Fruit": [
+            "Banana"
+      ],
+      "Hammer": [],
+      "Hat": [],
+      "Headphones": [],
+      "Ipod": [],
+      "Keyboard": [],
+      "Knife": [],
+      "Lamp": [
+            "_Attributes",
+            "DeskLamp",
+            "DeskLamp",
+            "DeskLamp",
+            "TableLamp",
+            "TableLamp"
+      ],
+      "MediaDiscs": [],
+      "MediaPlayer": [],
+      "MilkCarton": [
+            "FoodItem",
+            "FoodItem"
+      ],
+      "Monitor": [],
+      "Mouse": [],
+      "MousePad": [
+            "_StanfordSceneDBModels",
+            "_StanfordSceneDBModels"
+      ],
+      "Mug": [],
+      "Notepad": [],
+      "PaperBox": [],
+      "PaperClip": [],
+      "Pen": [],
+      "Pencil": [],
+      "PillBottle": [],
+      "Pizza": [],
+      "Plate": [],
+      "Printer": [],
+      "Purse": [],
+      "Radio": [
+            "TableClock"
+      ],
+      "Ring": [],
+      "RubiksCube": [],
+      "Ruler": [],
+      "Scissors": [],
+      "SodaCan": [],
+      "Spoon": [],
+      "Stapler": [],
+      "Tape": [],
+      "Teacup": [],
+      "Teapot": [],
+      "Telephone": [],
+      "TissueBox": [],
+      "USBStick": [],
+      "Vase": []
+}
