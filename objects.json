@@ -3,8 +3,6 @@
       "Book": [],
       "Bottle": [
             "BeerBottle",
-            "BeerBottle",
-            "WineBottle",
             "WineBottle"
       ],
       "Bowl": [],
@@ -20,46 +18,31 @@
       "CerealBox": [],
       "Coin": [],
       "Computer": [
-            "Desktop",
-            "Desktop",
             "Laptop",
-            "Laptop"
+            "Desktop"
       ],
       "ComputerMouse": [],
       "DrinkingUtensil": [
-            "Cup",
+            "Mug",
             "Cup",
             "Jug",
-            "Mug",
-            "Mug",
             "Teacup",
-            "WineGlass",
             "WineGlass"
       ],
       "Eraser": [],
       "FoodItem": [
-            "Bowl",
-            "Bowl",
-            "BreadSlice",
-            "BreadSlice",
-            "Cake",
-            "Cake",
             "Carrot",
             "CerealBox",
-            "CerealBox",
-            "CupCake",
             "Donut",
-            "Donut",
-            "DonutBox",
-            "DonutBox",
-            "Egg",
-            "FoodPlate",
-            "FoodPlate",
-            "FoodPlate",
-            "FoodPlate",
-            "Fries",
             "Sandwich",
-            "Sandwich"
+            "Fries",
+            "FoodPlate",
+            "Bowl",
+            "Egg",
+            "Cake",
+            "CupCake",
+            "DonutBox",
+            "BreadSlice"
       ],
       "Fork": [],
       "Fruit": [
@@ -74,21 +57,16 @@
       "Lamp": [
             "_Attributes",
             "DeskLamp",
-            "DeskLamp",
-            "DeskLamp",
-            "TableLamp",
             "TableLamp"
       ],
       "MediaDiscs": [],
       "MediaPlayer": [],
       "MilkCarton": [
-            "FoodItem",
             "FoodItem"
       ],
       "Monitor": [],
       "Mouse": [],
       "MousePad": [
-            "_StanfordSceneDBModels",
             "_StanfordSceneDBModels"
       ],
       "Mug": [],

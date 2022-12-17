@@ -1,6 +1,6 @@
 import json
 entity_catalogue="models/entity.jsonl"
-entities={"laptop", "mouse", "cup", "burger", "elephant"}
+entities={"laptop", "mouse", "desktop", "keyboard",}
 
 # load all the 5903527 entities
 title2desc = {}
